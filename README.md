@@ -1,6 +1,6 @@
 # Note Status
 
-Note statuses for [Fulgurite](https://github.com/Fulgurite-Plugin), like Inkdrop's: Active, On Hold, Completed or
+Note statuses for [fulgurite](https://github.com/fulgurite-plugin), like Inkdrop's: Active, On Hold, Completed or
 Dropped. The status is a tag in the note (`#status-active`, `#status-on-hold`, `#status-completed`, `#status-dropped`),
 so it syncs with the note and the sidebar's tags filter by it. A note has at most one.
 
@@ -13,4 +13,4 @@ so it syncs with the note and the sidebar's tags filter by it. A note has at mos
 
 ## Development
 
-See [api](https://github.com/Fulgurite-Plugin/fulgurite-api). `npm test` checks the tag rules (`src/status.ts`).
+See [api](https://github.com/fulgurite-plugin/fulgurite-api). `npm test` checks the tag rules (`src/status.ts`).

@@ -3,7 +3,7 @@
   "displayName": "Note Status",
   "version": "0.1.0",
   "description": "Inkdrop-style note status (Active, On Hold, Completed, Dropped) kept as a #status- tag: set it from the command palette and list notes by status",
-  "repository": "https://github.com/Fulgurite-Plugin/fulgurite-note-status",
+  "repository": "https://github.com/fulgurite-plugin/fulgurite-note-status",
   "license": "MIT",
   "main": "main.js",
   "isDesktopOnly": false,
@@ -19,7 +19,7 @@
   },
   "devDependencies": {
     "esbuild": "^0.25.0",
-    "fulgurite": "github:Fulgurite-Plugin/fulgurite-api#v0.1.2",
+    "fulgurite": "github:fulgurite-plugin/fulgurite-api#v0.1.2",
     "typescript": "^5.6.0"
   }
 }
