@@ -1,7 +1,7 @@
 {
   "name": "fulgurite.note-status",
   "displayName": "Note Status",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Inkdrop-style note status (Active, On Hold, Completed, Dropped) kept as a #status- tag: set it from the command palette and list notes by status",
   "repository": "https://github.com/fulgurite-plugin/fulgurite-note-status",
   "license": "MIT",
